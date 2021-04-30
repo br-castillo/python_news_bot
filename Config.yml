@@ -1,0 +1,26 @@
+# The name of your environment variable that contains the bot token.
+Bot Token Variable Name: "BotToken"
+
+# The prefix that the bot uses for all commands.
+Prefix: "=="
+
+# The "Playing______" status of the bot.
+# NOTE: Use "{prefix}" as the placeholder for the command prefix.
+Playing Status: "{prefix}help"
+
+# The ID of the text channel where all log messages should be sent.
+Log Channel ID: 788199422021337089
+Main Channel ID: 788199422021337089
+
+# Settings that apply to embedded messages that the bot sends.
+Embed Settings:
+  # The Red, Green, and Blue values that the bot uses as the embed colors.
+  Color:
+    r: 255
+    g: 255
+    b: 255
+
+# The settings that the bot will use for embed footers.
+  Footer:
+    Text: News Bot, 2020
+    Icon URL: https://cdn2.iconfinder.com/data/icons/picol-vector/32/news-512.png
