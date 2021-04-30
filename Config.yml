@@ -9,8 +9,8 @@ Prefix: "=="
 Playing Status: "{prefix}help"
 
 # The ID of the text channel where all log messages should be sent.
-Log Channel ID: 788199422021337089
-Main Channel ID: 788199422021337089
+Log Channel ID: 
+Main Channel ID: 
 
 # Settings that apply to embedded messages that the bot sends.
 Embed Settings:
