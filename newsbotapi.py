@@ -9,7 +9,7 @@ def news_grabber():
 	loop_on = True
 
 	while loop_on == True:
-		newsapi = NewsApiClient(api_key="f29f4293ed7f4289a5c53711d4408d5c")
+		newsapi = NewsApiClient(api_key=#news_API key here)
 		top_headlines = newsapi.get_top_headlines(sources= "bloomberg, business-insider, fortune, the-wall-street-journal")
 
 		# list to save articles in 
