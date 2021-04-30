@@ -141,4 +141,4 @@ async def on_ready():
           print("Maximum number of requests sent today, now shutting off.")
           break
 
-client.run('NzYzNzk0NzQ5Nzg5NTY5MDk0.X385Sg.XEiveRjmAgpRYDQHamTTWhbnOG4')
+client.run(#discord channel ID here)
