@@ -1,1 +1,0 @@
-pm2 start main.py --interpreter python3 --cron '0 14 * * 1,2,3,4,5' --no-autorestart
